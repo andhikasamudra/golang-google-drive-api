@@ -1,2 +1,1 @@
-# golang-google-drive-api
-# golang-google-drive-api
+# Example how to implement google drive api with Go
