@@ -1,0 +1,2 @@
+export GoogleDriveServicePath=""
+export GoogleDriveFolderID=""
